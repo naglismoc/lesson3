@@ -129,3 +129,14 @@ do{
         break;
     }
 }while (false);
+
+
+console.log(3 / 2);
+console.log(12 / 5);
+
+console.log(3 % 2);// 3 - 2 = 1; 
+console.log(12 % 5);// 12 - 5 = 7; 7 - 5 = 2; 
+
+if(72 % 2 != 0){
+
+}
